@@ -48,12 +48,6 @@ We needed install pinia,vueJS,vuejs-Routers,bootstrap.
  With pinea we made log out works properlly.
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-
-
 <!-- CONTACT -->
 ## Contact
 
