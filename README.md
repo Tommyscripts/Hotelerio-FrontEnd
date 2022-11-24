@@ -1,23 +1,5 @@
 # Hotelerio-FrontEnd
 
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-</div>
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -29,9 +11,9 @@ We created a website to book reservation with a client's hotel, where you can si
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Vue][Vue.js]][Vue-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [Vue][Vue.js]][Vue-url]
+* [Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [JQuery][JQuery.com]][JQuery-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
