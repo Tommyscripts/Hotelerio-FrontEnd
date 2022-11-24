@@ -70,3 +70,4 @@ Javier Cabrera Escoz  Github: @Tommmyscrits
 * Vue.js: (https://vuejs.org/)
 * Bootstrap: (https://getbootstrap.com)
 * Pinia: (https://pinia.vuejs.org/)
+* Rebboot Academy: (https://reboot.academy/)
