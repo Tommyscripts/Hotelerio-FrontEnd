@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We created a website to book reservation with a client's hotel, where you can sing up and login, for check available
+We created a website to book reservation with a client's hotel, where you can sing up and login, for check available.
 
 
 
