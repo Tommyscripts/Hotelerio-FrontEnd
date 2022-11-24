@@ -17,11 +17,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * Pinia
 * Axios
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 
 ### Prerequisites
