@@ -11,9 +11,11 @@ We created a website to book reservation with a client's hotel, where you can si
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Vue][Vue.js]][Vue-url]
-* [Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [JQuery][JQuery.com]][JQuery-url]
+* Vuejs
+* Bootstrap
+* JS
+* Pinia
+* Axios
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -35,7 +37,12 @@ We needed install pinia,vueJS,vuejs-Routers,bootstrap.
     ```sh
   npm install @pinia/nuxt
   ```
-
+    ```sh
+  npm i axios
+  ```
+  ```sh
+  npm i
+  ```
 
 ## Usage
  Vue and Vue-router was installed to can use vueJS and vueJS routing.
