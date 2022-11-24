@@ -38,6 +38,7 @@ We needed install pinia,vueJS,vuejs-Routers,bootstrap.
   ```sh
   npm i
   ```
+  This last one works to install all node_modules from the cloned project is needed.
 
 ## Usage
  Vue and Vue-router was installed to can use vueJS and vueJS routing.
