@@ -42,11 +42,10 @@ We needed install pinia,vueJS,vuejs-Routers,bootstrap.
 ## Usage
  Vue and Vue-router was installed to can use vueJS and vueJS routing.
  We used vuejs to create our website, making it easeir and beautier our coding with this framework.
- 
  About bootstrap we used this library to create a beautier website coding faster since this library has created already some nice CSS for every developer.
- 
  With pinea we made log out works properlly.
 
+Our website was created to solve a problem, because our client told us they takes every reservation  taking notes in a book and it give them issues and lots headache, so we decided help them. At begin we create the api backend, and now we created the front-end as a demo to show our client how this APP can help them to solve this problem.
 
 <!-- CONTACT -->
 ## Contact
