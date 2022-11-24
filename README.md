@@ -64,10 +64,9 @@ Raul Bruno Mendoza Github: @RaulBM94
 Javier Cabrera Escoz  Github: @Tommmyscrits
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Vue.js]: (https://vuejs.org/)
-* [Bootstrap-url]: (https://getbootstrap.com)
-* [Pinia]: (https://pinia.vuejs.org/)
+* Vue.js: (https://vuejs.org/)
+* Bootstrap: (https://getbootstrap.com)
+* Pinia: (https://pinia.vuejs.org/)
