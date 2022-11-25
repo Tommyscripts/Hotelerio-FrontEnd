@@ -2,15 +2,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-We created a website to book reservation with a client's hotel, where you can sing up and login, for check available.
-
-
+We have created a website for clients to register in it and book reservations in a hotel.
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * Vuejs
 * Bootstrap
 * JS
@@ -21,47 +15,37 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Prerequisites
 
-We needed install pinia,vueJS,vuejs-Routers,bootstrap.
-* npm
-  ```sh
-  npm init vue@3
+To be able to install and run this project, you should run the following commands in order:
+   ```sh
+  npm i 
   ```
-    ```sh
-  npm i bootstrap@5.2.3
+   ```sh
+  npm run build / npm run dev
   ```
-    ```sh
-  npm install @pinia/nuxt
-  ```
-    ```sh
-  npm i axios
-  ```
-  ```sh
-  npm i
-  ```
-  This last one works to install all node_modules what the cloned project need.
-
+  
 ## Usage
- Vue and Vue-router was installed to can use vueJS and vueJS routing.
- We used vuejs to create our website, making it easeir and beautier our coding with this framework.
- About bootstrap we used this library to create a beautier website coding faster since this library has created already some nice CSS for every developer.
- With pinea we made log out works properlly.
+This front-end webpage is the continuation of our [back-end project](https://github.com/TebyTeb/Hotelerio-backendAPI), and was built to work with it. Together they form a Demo application for automating reservations in a hotel with registered clients. 
 
-Our website was created to solve a problem, because our client told us they takes every reservation  taking notes in a book and it give them issues and lots headache, so we decided help them. At begin we create the api backend, and now we created the front-end as a demo to show our client how this APP can help them to solve this problem.
+We use VueJS framework along with several packages, like Vue-Router, Pinia, Sass and Bootstrap, to create a consistent application. 
+
+Any user will be able to:
+* Register in the webpage
+* Make a reservation in the Hotel
+* Check his/her own profile
+* Check his/her active reservations
 
 <!-- CONTACT -->
-## Contact
+## Collaborators
 
-Esteban Ojeda Hernandez Github: @TebyTeb
-<br>
-Raul Bruno Mendoza Github: @RaulBM94
-<br>
-Javier Cabrera Escoz  Github: @Tommmyscrits
+Esteban Ojeda Hernandez: [@TebyTeb](https://github.com/TebyTeb)
+
+Raul Bruno Mendoza: [@RaulBM94](https://github.com/RaulBM94)
+
+Javier Cabrera Escoz: [@Tommyscripts](https://github.com/Tommyscripts)
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+* [FULP](https://www.fulp.es/)
+* [Reboot Academy](https://reboot.academy/)
 
-* Vue.js: (https://vuejs.org/)
-* Bootstrap: (https://getbootstrap.com)
-* Pinia: (https://pinia.vuejs.org/)
-* Rebboot Academy: (https://reboot.academy/)
